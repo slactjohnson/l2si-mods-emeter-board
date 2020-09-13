@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name TO_Cans)(type KiCad)(uri ${KIPRJMOD}/TO_Cans.pretty)(options "")(descr ""))
+  (lib (name ThorLabs_CageSystem_MountHoles)(type KiCad)(uri ${KIPRJMOD}/ThorLabs_CageSystem_MountHoles.pretty)(options "")(descr ""))
+  (lib (name TO-8_Can_12_Leads)(type KiCad)(uri "C:/Users/tjohnson/Documents/Lasers_Pyro_Amplifier/Pyro_Amplifier_Board - Emeter/TO-8_Can_12_Leads.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Pyro_Amplifier_Lib)(type Legacy)(uri ${KIPRJMOD}/Pyro_Amplifier_Lib.lib)(options "")(descr ""))
+  (lib (name Gentec_Sensors)(type Legacy)(uri "C:/Users/tjohnson/Documents/Lasers_Pyro_Amplifier/Pyro_Amplifier_Board - Emeter/Gentec_Sensors.lib")(options "")(descr ""))
+)

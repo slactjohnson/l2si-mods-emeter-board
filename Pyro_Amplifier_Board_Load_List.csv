@@ -1,0 +1,19 @@
+Source:,C:\Users\tjohnson\Documents\Lasers_Pyro_Amplifier\Pyro_Amplifier_Board - Emeter V2\Pyro_Amplifier_Board.sch,
+Date:,7/2/2020 8:10,
+Ref,Value,Footprint
+C1,10uF,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm
+C2,10uF,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm
+C3,0.1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+C4,0.1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+C5,0.01uF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+C6,0.01uF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+C8,560pF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+C10,0.1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+C12,3.3pF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+C14,0.1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+J1,1x03 Pin Header 2.54mm,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal
+J2,Conn_Coaxial,Connector_Coaxial:SMA_Amphenol_132134-11_Vertical
+R2,5k,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+R4,49.9,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+U1,Gentec_Emeter,TO_Cans:TO-8_Can_8_Leads
+U3,OPA657,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm
